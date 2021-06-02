@@ -1,0 +1,13 @@
+{
+	"discord_bot_token": "ODQ2NDYwMTAyODEwOTI3MTI0.YKv1Zg.Rud4BdpK9wtPiJgFkDdDBKMkzDM",
+	"on_ready": 840730011286765568,
+	"Prefix": "!",
+	
+	"Server_IP": "148.251.142.66",
+	"Server_Port": 30120,
+
+	"host": "localhost",
+  	"user": "root",
+  	"password": "",
+  	"database": "unlimited"
+}
